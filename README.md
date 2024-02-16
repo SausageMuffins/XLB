@@ -16,6 +16,6 @@ Install Dependencies
 
 Make sure to create your own .env file to store the necessary information for the APIs. The .env file should minimally look like: 
 ```
-API_KEY=insert_here
+API_KEY=insert_api_token_here
 ```
-
+Your OpenAPI key can be created [here](https://platform.openai.com/api-keys)https://platform.openai.com/api-keys. Make sure to top up the balance to use the api key. 
