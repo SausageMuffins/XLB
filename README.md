@@ -14,5 +14,8 @@ Install Dependencies
 %pip install --upgrade --quiet  langchain langchain-community langchainhub langchain-openai chromadb bs4
 ```
 
-Make sure to create your own .env file to store the necessary information for the APIs.
+Make sure to create your own .env file to store the necessary information for the APIs. The .env file should minimally look like: 
+```
+API_KEY=insert_here
+```
 
