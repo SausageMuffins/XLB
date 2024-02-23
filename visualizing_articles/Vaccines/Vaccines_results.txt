@@ -1,0 +1,276 @@
+Ranking 1: {'source': 'reference_articles/Vaccines/CNN.pdf', 'start_index': 4098} 
+study, Link-Gelles said. But the CDC plans to continue to monitor the effectiveness of
+
+the latest vaccine, and additional analysis at later dates will help determine how well
+
+vaccines are working to prevent severe disease and how quickly protection may wane.
+
+GET CNN HEALTH'S WEEKLY NEWSLET TER
+
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+The US doesn’t have a system in place to track Covid-19 cases, but wastewater data
+
+suggests that Covid-19 continues to circulate at high levels in the US and there are still
+
+tens of thousands of Covid-19 hospitalizations and hundreds of deaths each week.
+
+During the week ending January 13, there were nearly 31,000 Covid-19 hospitalizations
+
+and more than 1,800 deaths, according to CDC data.
+
+Still, only about 1 in 5 adults and 1 in 9 children have gotten the latest Covid-19 vaccine,
+
+which is recommended for everyone ages 6 months and older, the CDC estimates.
+
+--------------------------------------------------
+
+Ranking 2: {'source': 'reference_articles/JN1/Fox_JN1.pdf', 'start_index': 2379} 
+https://www.foxnews.com/health/new-covid-variant-jn1-comprises-us-c...
+
+COVID cases are currently elevated in the U.S., along with influenza and respiratory syncytial virus (RSV).
+
+People’s symptoms and severity of illness are more related to their overall health and strength of immunity than to which COVID
+
+variant they have contracted, according to the CDC. (iStock)
+
+"We expected this increase because COVID-19 has had a pattern of increasing and peaking in late summer, and then again
+
+peaking around the new year," the CDC stated.
+
+CLICK HERE TO GET THE FOX NEWS APP
+
+"Right now, we do not know to what extent JN.1 may be contributing to these increases or possible increases through the rest of
+
+December like those seen in previous years."
+
+The agency also said, "CDC will closely monitor COVID-19 activity and the spread of JN.1."
+
+For more Health articles, visit www.foxnews.com/health.
+
+--------------------------------------------------
+
+Ranking 3: {'source': 'reference_articles/Vaccines/CNN.pdf', 'start_index': 4896} 
+Still, only about 1 in 5 adults and 1 in 9 children have gotten the latest Covid-19 vaccine,
+
+which is recommended for everyone ages 6 months and older, the CDC estimates.
+
+By comparison, nearly half of adults and children have gotten the flu vaccine this
+
+season. And a flu season where the vaccine matches the circulating strain with 50%
+
+effectiveness would be considered a really good match, Link-Gelles said.
+
+“There’s never a bad time to get a Covid vaccine,” she said. “Even with relatively low
+
+levels of hospitalization right now … that extra protection is going to go a long way.”
+
+Up next
+
+Washington Post: CDC to ease Covid-19 isolation guidance
+
+3 minute read
+
+Millions of people have long Covid, including children and pregnant people, studies show
+
+5 minute read
+
+The doctor behind the next big thing in cancer treatment
+
+8 minute read
+
+Respiratory virus season in the US may be past its peak, CDC says
+
+4 of 7
+
+23/2/24, 10:49 am
+
+--------------------------------------------------
+
+Ranking 4: {'source': 'reference_articles/Vaccines/Fox.pdf', 'start_index': 3553} 
+COVID VARIANT JN.1 NO MORE SEVERE THAN PREVIOUS STRAINS, CDC DATA SHOWS
+
+Siegel noted that all vaccines have side effects.
+
+3 of 7
+
+23/2/24, 10:48 am
+
+Risks associated with the COVID vaccine identiﬁed in study | Fox News
+
+https://www.foxnews.com/health/largest-ever-covid-vaccine-study-link...
+
+"It always comes down to a risk/beneIt analysis of what you are more afraid of — the vaccine's side effects or the virus itself, which can have long-term side effects in terms of brain fog, fatigue, cough and also heart issues," he said.
+
+"Denying or exaggerating a vaccine's side effects is not good science — nor is underestimating the risks of the virus, especially in high-risk groups," Siegel added.
+
+"It comes down to a risk/beneHt analysis of what you are more afraid of — the vaccine's side effects or the virus itself."
+
+The key is for doctors and their patients to carefully weigh the risks and beneIts, the doctor emphasized.
+
+--------------------------------------------------
+
+Ranking 5: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 3105} 
+the coming weeks.
+
+Overall Covid-19 data shows weekly hospitalizations have been trending down in recent
+
+weeks.
+
+Meanwhile, flu hospitalizations are rising but remain steady compared with recent
+
+weeks, according to CDC data. Flu-like activity is very high in five states and high in 15
+
+states.
+
+CNN Health’s Brenda Goodman contributed to this report.
+
+Correction: A previous version of this article misstated the number of US hospital beds
+
+in use by Covid-19 patients.
+
+Up next
+
+4 of 8
+
+22/2/24, 9:22 pm
+
+Covid-19 variant JN.1 is now the leading cause of infections in the US....
+
+https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
+
+Up next
+
+Millions of people have long Covid, including children and pregnant people, studies show
+
+5 minute read
+
+Washington Post: CDC to ease Covid-19 isolation guidance
+
+3 minute read
+
+Respiratory virus season in the US may be past its peak, CDC says
+
+3 minute read
+
+AI boom drove Nvidia profits up 580% last year
+
+3 minute read
+
+--------------------------------------------------
+
+Ranking 6: {'source': 'reference_articles/Vaccines/CNN.pdf', 'start_index': 5660} 
+5 minute read
+
+The doctor behind the next big thing in cancer treatment
+
+8 minute read
+
+Respiratory virus season in the US may be past its peak, CDC says
+
+4 of 7
+
+23/2/24, 10:49 am
+
+Latest Covid-19 vaccine offers strong protection against symptomatic in...
+
+https://edition.cnn.com/2024/02/01/health/updated-covid-vaccine-effect...
+
+Respiratory virus season in the US may be past its peak, CDC says
+
+3 minute read
+
+Smoking’s effects on the immune system can last years, study finds
+
+4 minute read
+
+Most read
+
+1 AT&T says service has been restored after massive, nationwide outage.
+
+Authorities are investigating
+
+2 Wendy Williams diagnosed with aphasia and dementia
+
+3 Biden embraces bully pulpit as he escalates fight against Trump and GOP over
+
+Russia
+
+4 Audrii Cunningham remembered as radiant fifth grader after family friend is
+
+charged with her murder
+
+5 Darryl George: Texas judge rules school district can restrict the length of male
+
+students’ natural hair
+
+--------------------------------------------------
+
+Ranking 7: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 774} 
+cases in the United States, according to the US Centers for Disease Control and
+
+Prevention.
+
+XBB.1.5, BA.2.86, JN.1: How to understand the Covid-19 alphabet soup
+
+As of Friday, CDC data estimates indicate that the quickly spreading variant is now
+
+causing almost half of infections nationwide, when just days ago it was estimated that
+
+JN.1 caused only about 20% of infections.
+
+2 of 8
+
+22/2/24, 9:22 pm
+
+Covid-19 variant JN.1 is now the leading cause of infections in the US....
+
+https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
+
+JN.1 makes up nearly 57% of new Covid-19 cases in the Northeast, according to the
+
+data. Earlier this week, the variant was already dominant in the region, causing about a
+
+third of new infections at the time.
+
+Globally, JN.1 continues to be reported in multiple countries, and its prevalence has
+
+been rapidly increasing. The World Health Organization named it a variant of interest on
+
+--------------------------------------------------
+
+Ranking 8: {'source': 'reference_articles/Vaccines/CNN.pdf', 'start_index': 0} 
+Latest Covid-19 vaccine offers strong protection against symptomatic in...
+
+1 of 7
+
+https://edition.cnn.com/2024/02/01/health/updated-covid-vaccine-effect...
+
+WatchAudioLive TV
+
+23/2/24, 10:49 am
+
+Latest Covid-19 vaccine offers strong protection against symptomatic in...
+
+https://edition.cnn.com/2024/02/01/health/updated-covid-vaccine-effect...
+
+Latest Covid-19 vaccine o1ers strong protection against symptomatic infection, including from JN.1, early CDC data shows
+
+By Deidre McPhillips, CNN
+
+3 minute read · Published 1:00 PM EST, Thu February 1, 2024
+
+Updated Covid-19 vaccines provided 54% protection against symptomatic infection among
+
+immunocompetent adults who were recently vaccinated compared with those who did not receive an
+
+updated vaccine, a new report says. Brian Snyder/Reuters
+
+(CNN) — A shot of the latest Covid-19 vaccine can help cut the chances of getting a
+
+symptomatic infection by half, early data from the US Centers for Disease Control and
+
+Prevention suggests.
+
+--------------------------------------------------
+
