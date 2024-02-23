@@ -11,7 +11,7 @@ Follow the steps below to set up the necessary dependencies. LangChain quickstar
 
 Install Dependencies
 ```
-%pip install --upgrade --quiet  langchain langchain-community langchainhub langchain-openai chromadb bs4
+pip install -r requirements.txt
 ```
 
 Make sure to create your own .env file to store the necessary information for the APIs. The .env file should minimally look like: 
