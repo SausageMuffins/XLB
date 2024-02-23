@@ -1,27 +1,21 @@
-Ranking 1: {'source': 'reference_articles/JN1/Fox_JN1.pdf', 'start_index': 1658} 
+Ranking 1: {'source': 'reference_articles/JN1/Fox_JN1.pdf', 'start_index': 837} 
+"The continued growth of JN.1 suggests that it is either more transmissible or better at evading our immune systems," the CDC said
+
+in the update.
+
+Despite its quick growth, the agency said "there is no evidence that JN.1 presents an increased risk to public health relative to other
+
+currently circulating variants," as it does not appear to cause increased severity of illness.
+
+SARS-CoV-2, the virus that causes COVID-19, is mutating yet again. The latest variant getting buzz is JN.1. (iStock)
+
+The vaccines, tests and treatments that are currently available are expected to be effective against JN.1.
+
+COLD, FLU, COVID-19 AND RSV: HOW TO IDENTIFY THE DIFFERING SYMPTOMS AND STAY SAFE
+
+"This variant is spreading very rapidly, but fortunately the current updated vaccine continues to provide good protection against
+
 severe disease and the need to be hospitalized, and it will protect you from dying," said Dr. William Schaffner, an infectious
-
-diseases physician at Vanderbilt Medical Center in Tennessee, on "America’s Newsroom" on FOX News Channel on Dec. 22.
-
-The latest variant of the COVID-19 virus, JN.1, is now responsible for an estimated 15% to 29% of U.S. cases as of Dec. 8,
-
-according to the CDC. (iStock)
-
-People’s symptoms and severity of illness are linked more to their overall health and strength of immunity than which COVID variant
-
-they have contracted, according to the CDC.
-
-CLICK HERE TO SIGN UP FOR OUR HEALTH NEWSLETTER
-
-1 of 2
-
-22/2/24, 9:22 pm
-
-New COVID variant JN.1 now comprises up to 30% of US cases: CDC
-
-https://www.foxnews.com/health/new-covid-variant-jn1-comprises-us-c...
-
-COVID cases are currently elevated in the U.S., along with influenza and respiratory syncytial virus (RSV).
 
 --------------------------------------------------
 
@@ -74,45 +68,42 @@ AI boom drove Nvidia profits up 580% last year
 
 --------------------------------------------------
 
-Ranking 3: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 3937} 
-3 minute read
+Ranking 3: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 0} 
+Covid-19 variant JN.1 is now the leading cause of infections in the US....
 
-Respiratory virus season in the US may be past its peak, CDC says
+1 of 8
 
-3 minute read
+https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
 
-AI boom drove Nvidia profits up 580% last year
+WatchAudioLive TV
 
-3 minute read
+22/2/24, 9:22 pm
 
-What to know about Alaskapox after officials report first known fatal case
+Covid-19 variant JN.1 is now the leading cause of infections in the US....
 
-5 minute read
+https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
 
-Most read
+Covid-19 variant JN.1 is now the leading cause of infections in the US. Here’s what you need to know
 
-1 AT&T customers report a massive outage, disrupting phone service across
+By Amanda Musa, CNN
 
-America
+2 minute read · Updated 1:33 PM EST, Mon December 25, 2023
 
-2 Suspect in Audrii Cunningham’s death is charged with capital murder after the
+CDC data estimates show that JN.1 is quickly spreading across the country and is now the leading
 
-girl’s body was found in a river tied to a rock
+variant causing almost half of infections. Patrick Sison/AP/File
 
-3 World’s oldest unchanged brand changes logo for the first time in over 140
+(CNN) — The Omicron coronavirus subvariant JN.1 now makes up 44.2% of Covid-19
 
-years
+cases in the United States, according to the US Centers for Disease Control and
 
-4 The death of an Oklahoma teen after a fight in school has LGBTQ+ advocates
+Prevention.
 
-seeking answers
+XBB.1.5, BA.2.86, JN.1: How to understand the Covid-19 alphabet soup
 
-5 Cillian Murphy understands why Matt Damon called him the ‘worst dinner
+--------------------------------------------------
 
-companion imaginable’
-
-How a trusted FBI source became the center of a Washington scandal
-
+Ranking 4: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 4758} 
 5 of 8
 
 22/2/24, 9:22 pm
@@ -121,196 +112,39 @@ Covid-19 variant JN.1 is now the leading cause of infections in the US....
 
 https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
 
---------------------------------------------------
+6 How a trusted FBI source became the center of a Washington scandal
 
-Ranking 4: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 774} 
-cases in the United States, according to the US Centers for Disease Control and
+7 Putin looms over a third successive US election
 
-Prevention.
+8 Bidens’ dog, Commander, bit Secret Service personnel in at least 24 incidents,
 
-XBB.1.5, BA.2.86, JN.1: How to understand the Covid-19 alphabet soup
+records show
 
-As of Friday, CDC data estimates indicate that the quickly spreading variant is now
+9 Trump asks judge to delay enforcing the $355 million civil fraud decision for one
 
-causing almost half of infections nationwide, when just days ago it was estimated that
+month
 
-JN.1 caused only about 20% of infections.
+10 Biden considering new executive action to restrict asylum at the border, sources
 
-2 of 8
+say
 
-22/2/24, 9:22 pm
+MORE FROM CNN
 
-Covid-19 variant JN.1 is now the leading cause of infections in the US....
+Respiratory virus season in the US may be past its peak, CDC says
 
-https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
+Thousands of seniors are still dying of Covid-19. Do we not care ...
 
-JN.1 makes up nearly 57% of new Covid-19 cases in the Northeast, according to the
+AI boom drove Nvidia profits up 580% last year
 
-data. Earlier this week, the variant was already dominant in the region, causing about a
+NEWS & BUZZ
 
-third of new infections at the time.
+AT&T customers report a massive outage, disrupting phone service ...
 
-Globally, JN.1 continues to be reported in multiple countries, and its prevalence has
-
-been rapidly increasing. The World Health Organization named it a variant of interest on
-
---------------------------------------------------
-
-Ranking 5: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 2319} 
-Vaccine immunity is expected to remain “cross-reactive” to JN.1, a descendant of the
-
-variant BA.2.86, itself a subvariant that came to the world’s attention over the summer
-
-because of the large number of changes to its spike proteins.
-
-GET CNN HEALTH'S WEEKLY NEWSLET TER
-
-Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
-
-Covid-19 caused 7 hospitalizations for every 100,000 people in the week ending
-
-December 9, accounting for a 3% increase, CDC data shows.
-
-More than three-quarters of US hospital beds are currently in use, which is largely in line
-
-with trends over the past three years since the Covid-19 pandemic. However, the CDC
-
-warns that rising respiratory virus hospitalizations could strain health care resources in
-
-the coming weeks.
-
-Overall Covid-19 data shows weekly hospitalizations have been trending down in recent
-
-weeks.
-
-Meanwhile, flu hospitalizations are rising but remain steady compared with recent
-
---------------------------------------------------
-
-Ranking 6: {'source': 'reference_articles/JN1/Fox_JN1.pdf', 'start_index': 3083} 
-December like those seen in previous years."
-
-The agency also said, "CDC will closely monitor COVID-19 activity and the spread of JN.1."
-
-For more Health articles, visit www.foxnews.com/health.
-
-Melissa Rudy is health editor and a member of the lifestyle team at Fox News Digital. Story tips can be sent to
-
-melissa.rudy@fox.com.
-
-Print
-
-Close
-
-URL
-
-https://www.foxnews.com/health/new-covid-variant-jn1-comprises-us-cases-cdc
-
-Home Video Politics U.S. Opinion Entertainment Tech Science Health Travel Lifestyle World Sports Weather
-
-Privacy Terms
-
-This material may not be published, broadcast, rewritten, or redistributed. © FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Powered and implemented by FactSet Digital Solutions. Legal Statement. Mutual Fund and ETF data provided by Refinitiv Lipper.Do Not Sell my Personal Information - New Terms of Use - FAQ
-
-2 of 2
-
-22/2/24, 9:22 pm
-
---------------------------------------------------
-
-Ranking 7: {'source': 'reference_articles/JN1/Fox_JN1.pdf', 'start_index': 837} 
-"The continued growth of JN.1 suggests that it is either more transmissible or better at evading our immune systems," the CDC said
-
-in the update.
-
-Despite its quick growth, the agency said "there is no evidence that JN.1 presents an increased risk to public health relative to other
-
-currently circulating variants," as it does not appear to cause increased severity of illness.
-
-SARS-CoV-2, the virus that causes COVID-19, is mutating yet again. The latest variant getting buzz is JN.1. (iStock)
-
-The vaccines, tests and treatments that are currently available are expected to be effective against JN.1.
-
-COLD, FLU, COVID-19 AND RSV: HOW TO IDENTIFY THE DIFFERING SYMPTOMS AND STAY SAFE
-
-"This variant is spreading very rapidly, but fortunately the current updated vaccine continues to provide good protection against
-
-severe disease and the need to be hospitalized, and it will protect you from dying," said Dr. William Schaffner, an infectious
-
---------------------------------------------------
-
-Ranking 8: {'source': 'reference_articles/JN1/CNN_JN1.pdf', 'start_index': 5617} 
 Suspect in Audrii Cunningham’s death is charged with capital ...
 
 World’s oldest unchanged brand changes logo for
 
 6 of 8
-
-22/2/24, 9:22 pm
-
-Covid-19 variant JN.1 is now the leading cause of infections in the US....
-
-changes logo for the first time in ...
-
-7 of 8
-
-https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
-
-Log In
-
-Live TV
-
-Listen
-
-Watch
-
-World
-
-US Politics
-
-Business
-
-Health
-
-Entertainment
-
-Tech
-
-Style
-
-Travel
-
-Sports
-
-Watch
-
-Features
-
-Weather
-
-More
-
-22/2/24, 9:22 pm
-
-Covid-19 variant JN.1 is now the leading cause of infections in the US....
-
-https://edition.cnn.com/2023/12/22/health/covid-19-variant-jn-1-domina...
-
-FOLLOW CNN
-
-Terms of Use
-
-Privacy Policy Manage Cookies+ Ad Choices
-
-Accessibility & CC About Newsletters
-
-Transcripts
-
-© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.
-
-CNN Sans ™ & © 2016 Cable News Network.
-
-8 of 8
 
 22/2/24, 9:22 pm
 
