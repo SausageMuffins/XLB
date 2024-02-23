@@ -19,9 +19,10 @@ def format_chunk(chunk, idx, separator):
 def format_and_write_docs(docs, file_path="visualizing_articles/loaded_docs.txt"):
 
     formatted_content = "\n\n".join(doc.page_content for doc in docs)
-    with open(file_path, 'w', encoding='utf-8') as file:
+    with open(file_path, 'w+', encoding='utf-8') as file:
         file.write(formatted_content)
     print(f"Documents have been formatted and written to {file_path}.\n")
+    
     
 def format_and_write_chunks(chunks, file_path="visualizing_articles/chunks.txt"):
     separator = "-" * 50
@@ -31,10 +32,13 @@ def format_and_write_chunks(chunks, file_path="visualizing_articles/chunks.txt")
     # Joining formatted chunks, each already includes a separator at the end
     formatted_content = "\n\n".join(formatted_chunks)
 
-    with open(file_path, 'w', encoding='utf-8') as file:
+    with open(file_path, 'w+', encoding='utf-8') as file:
         file.write(formatted_content)
 
     print(f"Chunks have been formatted and written to {file_path}.\n")
 
 
-
+def format_and_write_results(results, file_path="visualizing_articles/results.txt"):
+    with open(file_path, 'w+', encoding='utf-8') as file:
+        file.write(results)
+    print(f"Results have been formatted and written to {file_path}.\n")
